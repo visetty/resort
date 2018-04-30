@@ -6,7 +6,7 @@
 
 ## Description
 
-__This is a webpage about Wakanda resort and services provided such as  Accommodations, Activities, Gallery, Travel Arrangements, Contact information of resort. __
+__This is a webpage about Wakanda resort and services provided such as  Accommodations, Activities, Gallery, Travel Arrangements, Contact information of resort.__
 
 ## Known Bugs
 __No known bugs.__
