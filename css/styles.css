@@ -1,0 +1,12 @@
+h1.first{
+  color: #0040ff;
+  font-weight: bolder;
+  font-family: inherit;
+  text-align: center;
+}
+
+h2.second{
+  color: #bf00ff;
+  font-weight: bold;
+  font-style: oblique;
+}
