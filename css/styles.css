@@ -1,0 +1,37 @@
+h1.first{
+  color: #ff4000;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+
+h2.second{
+  color: #ff8000;
+  font-family: serif;
+  font-weight: bold;
+}
+
+h3.third{
+  color: #d90026;
+  font-style: italic;
+}
+
+p.para{
+  color: #ff3333;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+table.table{
+  color: #ff0000;
+}
+
+ul.list{
+  color: #a60059;
+  font-style: oblique;
+  font-size: 20px;
+}
+
+body{
+  background-color: #ffe6e6;
+}
