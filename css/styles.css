@@ -1,44 +1,44 @@
-h1.first{
+h1.first {
   color: #0040ff;
   font-weight: bolder;
   font-family: inherit;
   text-align: center;
 }
 
-h2.second{
+h2.second {
   color: #bf00ff;
   font-weight: bold;
   font-style: oblique;
 }
 
-h3.third{
+h3.third {
   color: 	#0080ff;
   font-family: serif;
   font-weight: bold;
 }
 
-.table{
+.table {
   color: #ff4000;
   width: 100%;
 
 }
 
-ul.list{
+ul.list {
   color: #b30000;
   font-size: 20px;
 }
 
-p.para{
+p.para {
   color: #ff00bf;
   font-size: 20px;
 }
 
-body{
-  background-image: url(../images/background.jpg);
+body {
+  background-image: url(../images/background2.jpg);
   background-size: cover;
 }
 
-th{
+th {
   color: #C71585;
   height: 50px;
   width: 500px;
@@ -46,8 +46,13 @@ th{
   font-size: 20px;
 }
 
-table{
+table {
   border-collapse: collapse;
   width: 500px;
   border: purple;
+}
+
+img {
+  width: 100%;
+  border: 20px;
 }
